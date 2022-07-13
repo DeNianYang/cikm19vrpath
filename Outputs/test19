@@ -1,0 +1,28 @@
+Virtual Index Finished and Exported in 0 seconds.
+ShaoHeng's Physical Index Finished and Exported in 5.79 seconds.
+K-Shortest-Path Index Finished and Exported in 4.4 seconds.
+K-Shortest-Path Index Read in 0.01 seconds.
+Search environment built in 0.04 seconds.
+T=0.000000 / fea / L=6.082763  /// T=0.000000 / fea / L=6.082763  /// T=0.080000 / fea / L=7.000000  /// T=0.010000 / fea / L=6.162278 
+T=0.000000 / fea / L=1.000000  /// T=0.000000 / fea / L=1.000000  /// T=0.000000 / fea / L=1.000000  /// T=0.000000 / fea / L=1.000000 
+T=0.000000 / fea / L=5.385165  /// T=0.000000 / fea / L=5.385165  /// T=0.080000 / fea / L=6.000000  /// T=0.010000 / fea / L=5.385165 
+T=0.000000 / fea / L=3.236068  /// T=0.000000 / fea / L=3.236068  /// T=0.050000 / fea / L=3.236068  /// T=0.000000 / fea / L=3.236068 
+T=0.000000 / fea / L=3.605551  /// T=0.000000 / fea / L=3.605551  /// T=0.050000 / fea / L=3.605551  /// T=0.010000 / fea / L=3.605551 
+T=0.000000 / fea / L=5.064495  /// T=0.000000 / fea / L=5.064495  /// T=0.080000 / fea / L=6.000000  /// T=0.000000 / fea / L=5.242640 
+T=0.000000 / fea / L=2.236068  /// T=0.000000 / fea / L=2.236068  /// T=0.030000 / fea / L=2.236068  /// T=0.000000 / fea / L=3.000000 
+T=0.000000 / fea / L=4.828427  /// T=0.000000 / fea / L=4.828427  /// T=0.060000 / fea / L=5.000000  /// T=0.000000 / inf / 
+T=0.000000 / fea / L=5.000000  /// T=0.000000 / fea / L=5.000000  /// T=0.070000 / fea / L=5.000000  /// T=0.010000 / fea / L=5.000000 
+T=0.000000 / fea / L=1.000000  /// T=0.000000 / fea / L=1.000000  /// T=0.000000 / fea / L=1.000000  /// T=0.000000 / fea / L=1.000000 
+Total Successful Queries = 10
+LARAC average time = 0.0000
+PRUNE average time = 0.0000
+FPTAS average time = 0.0500
+KSP average time = 0.0040
+LARAC feasible ratio = 1.00
+PRUNE feasible ratio = 1.00
+FPTAS feasible ratio = 1.00
+KSP feasible ratio = 0.90
+LARAC average feasible path length = 3.62
+PRUNE average feasible path length = 3.62
+FPTAS average feasible path length = 3.90
+KSP average feasible path length = 3.74

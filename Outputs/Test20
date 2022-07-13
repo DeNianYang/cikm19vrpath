@@ -1,0 +1,38 @@
+Virtual Index Finished and Exported in 0.14 seconds.
+ShaoHeng's Physical Index Finished and Exported in 5.9 seconds.
+K-Shortest-Path Index Finished and Exported in 384.18 seconds.
+K-Shortest-Path Index Read in 0.14 seconds.
+Search environment built in 0.32 seconds.
+T=0.000000 / fea / L=5.605551  /// T=0.000000 / fea / L=5.605551  /// T=0.720000 / fea / L=5.605551  /// T=0.030000 / fea / L=5.605551 
+T=0.000000 / fea / L=11.313708  /// T=0.070000 / fea / L=11.313708  /// T=1.710000 / fea / L=12.000000  /// T=0.030000 / inf / 
+T=0.000000 / fea / L=5.000000  /// T=0.000000 / fea / L=5.000000  /// T=0.700000 / fea / L=5.000000  /// T=0.040000 / fea / L=5.000000 
+T=0.000000 / fea / L=17.524174  /// T=0.000000 / fea / L=17.524174  /// T=2.510000 / fea / L=18.000000  /// T=0.010000 / inf / 
+T=0.000000 / fea / L=15.556349  /// T=0.000000 / fea / L=15.556349  /// T=2.230000 / fea / L=16.000000  /// T=0.050000 / fea / L=15.556350 
+T=0.000000 / fea / L=36.472382  /// T=0.000000 / fea / L=36.472382  /// T=5.440000 / fea / L=36.472382  /// T=0.050000 / inf / 
+T=0.000000 / fea / L=7.810250  /// T=0.000000 / fea / L=7.810250  /// T=1.170000 / fea / L=8.000000  /// T=0.030000 / fea / L=7.810250 
+T=0.000000 / fea / L=6.082763  /// T=0.000000 / fea / L=6.082763  /// T=0.870000 / fea / L=6.082763  /// T=0.030000 / fea / L=6.236068 
+T=0.000000 / fea / L=6.708204  /// T=0.000000 / fea / L=6.708204  /// T=0.950000 / fea / L=7.000000  /// T=0.030000 / fea / L=7.000000 
+T=0.010000 / fea / L=23.826014  /// T=0.000000 / fea / L=23.826014  /// T=3.510000 / fea / L=25.000000  /// T=0.000000 / inf / 
+T=0.000000 / fea / L=33.632019  /// T=0.010000 / fea / L=33.632019  /// T=4.810000 / fea / L=33.632019  /// T=0.050000 / inf / 
+T=0.000000 / fea / L=29.729473  /// T=0.000000 / fea / L=29.729473  /// T=4.320000 / fea / L=31.000000  /// T=0.040000 / inf / 
+T=0.000000 / fea / L=15.335088  /// T=0.010000 / fea / L=15.335088  /// T=2.290000 / fea / L=17.000000  /// T=0.040000 / fea / L=15.472136 
+T=0.000000 / fea / L=11.180340  /// T=0.000000 / fea / L=11.180340  /// T=1.690000 / fea / L=11.180340  /// T=0.060000 / fea / L=11.324555 
+T=0.000000 / fea / L=29.729473  /// T=0.000000 / fea / L=29.729473  /// T=4.370000 / fea / L=31.000000  /// T=0.030000 / inf / 
+T=0.000000 / fea / L=14.236068  /// T=0.000000 / fea / L=14.236068  /// T=2.010000 / fea / L=14.236068  /// T=0.030000 / inf / 
+T=0.000000 / fea / L=2.000000  /// T=0.000000 / fea / L=2.000000  /// T=0.140000 / fea / L=2.000000  /// T=0.010000 / fea / L=2.000000 
+T=0.000000 / fea / L=2.236068  /// T=0.000000 / fea / L=2.236068  /// T=0.280000 / fea / L=2.236068  /// T=0.040000 / fea / L=3.000000 
+T=0.000000 / fea / L=17.727968  /// T=0.000000 / fea / L=17.727968  /// T=2.750000 / fea / L=19.000000  /// T=0.010000 / inf / 
+T=0.000000 / fea / L=6.082763  /// T=0.000000 / fea / L=6.082763  /// T=0.970000 / fea / L=6.082763  /// T=0.040000 / fea / L=6.414214 
+Total Successful Queries = 20
+LARAC average time = 0.0005
+PRUNE average time = 0.0045
+FPTAS average time = 2.1720
+KSP average time = 0.0325
+LARAC feasible ratio = 1.00
+PRUNE feasible ratio = 1.00
+FPTAS feasible ratio = 1.00
+KSP feasible ratio = 0.55
+LARAC average feasible path length = 7.60
+PRUNE average feasible path length = 7.60
+FPTAS average feasible path length = 7.84
+KSP average feasible path length = 7.77
